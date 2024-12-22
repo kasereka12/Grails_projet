@@ -1,0 +1,5 @@
+files:
+    basePath: "./grails-app/assets/uploads"
+    baseUrl: "http://localhost:8080/assets/"
+server:
+    port: 8081
